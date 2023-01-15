@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+* {text-decoration: none;list-style: none;display: flex;overflow: none;scroll-behavior:smooth;}
+:root {
+  /* Colors */
+  --color-gray-100: #424242;
+
+  /* border radiuses */
+  --br-sm: 50px;
+  --br-md: 350px;
+}
